@@ -1,0 +1,1 @@
+## 2.	Convert the following class diagram into optimized and meaningful java
